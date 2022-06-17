@@ -31,9 +31,6 @@
     "prettier:fix": "prettier --write ."
   },
   "types": "lib/index.d.ts",
-  "resolutions": {
-    "@0x/utils": "https://github.com/ProjectOpensea/0x-tools/raw/provider-patch/utils/0x-utils-6.5.0.tgz"
-  },
   "dependencies": {
     "@opensea/seaport-js": "^1.0.0",
     "ajv": "^8.11.0",
@@ -46,8 +43,8 @@
     "lodash": "^4.17.21",
     "query-string": "^6.11.1",
     "web3": "1.7.0",
-    "wyvern-js": "git+https://github.com/ProjectOpenSea/wyvern-js.git#7823dfdf5a272ebbc6a46e66d23563a9d6cc1be2",
-    "wyvern-schemas": "git+https://github.com/ProjectOpenSea/wyvern-schemas.git#0a8d569931ddb6faa6e96f5a60fa2f83f0a8750e"
+    "wyvern-js": "git+https://github.com/ProjectOpenSea/wyvern-js.git#be151d78db7c09bac06cf72736bd5b7e12d377a9",
+    "wyvern-schemas": "git+https://github.com/ProjectOpenSea/wyvern-schemas.git#d033eff5f42b9a708ef4047b640675bcba99ce9f"
   },
   "devDependencies": {
     "@typechain/web3-v1": "^5.0.0",

@@ -31,6 +31,9 @@
     "prettier:fix": "prettier --write ."
   },
   "types": "lib/index.d.ts",
+  "resolutions": {
+    "@0x/utils": "https://github.com/ProjectOpensea/0x-tools/raw/provider-patch/utils/0x-utils-6.5.0.tgz"
+  },
   "dependencies": {
     "@opensea/seaport-js": "^1.0.0",
     "ajv": "^8.11.0",

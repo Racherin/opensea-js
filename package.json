@@ -43,8 +43,8 @@
     "lodash": "^4.17.21",
     "query-string": "^6.11.1",
     "web3": "1.7.0",
-    "wyvern-js": "git+https://github.com/ProjectOpenSea/wyvern-js.git#be151d78db7c09bac06cf72736bd5b7e12d377a9",
-    "wyvern-schemas": "git+https://github.com/ProjectOpenSea/wyvern-schemas.git#d033eff5f42b9a708ef4047b640675bcba99ce9f"
+    "wyvern-js": "git+https://github.com/ProjectOpenSea/wyvern-js.git#4e4b2625ad299615618eb4934f8b5c2c60a17f0b",
+    "wyvern-schemas": "git+https://github.com/ProjectOpenSea/wyvern-schemas.git#cde9fbd8536b97a2ed410094bdf6fb31d04443da"
   },
   "devDependencies": {
     "@typechain/web3-v1": "^5.0.0",
